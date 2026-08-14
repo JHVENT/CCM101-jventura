@@ -4,7 +4,7 @@ Checkpoint 2 – Cloud Server Investigation
 
 ## Item | Value 
 
-Operating System - Ubuntu 24.04.4 LTS 
+Operating System - Ubuntu 24.04.4 LTS |
 Kernel Version - 6.8.0-136-generic 
 CPU Model - Intel Xeon E312xx (Sandy Bridge, IBRS update) 
 Number of CPU Cores - 1 
