@@ -1,4 +1,3 @@
-# Cloud Computing Activities
 
 ## Jholan Norberte Ventura
 
