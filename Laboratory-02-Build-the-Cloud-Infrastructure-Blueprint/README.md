@@ -1,6 +1,5 @@
-## Laboratory 2: Build the Cloud Infrastructure Blueprint
 
-Mission Overview
+Mission Overview: 
 This lab simulates the planning phase of a cloud deployment for a fictional company, CloudNova Technologies. As a newly onboarded cloud engineer, the task was to investigate the components of cloud infrastructure, understand how compute, storage, networking, and identity services work together, and document the findings as technical documentation for a client, using a Linux server running in the KillerCoda environment.
 
 Objectives
