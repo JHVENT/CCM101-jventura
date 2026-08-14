@@ -41,5 +41,5 @@ Skills Learned
 - Comparing equivalent services across AWS, Azure, and Google Cloud Platform
 - Creating a cloud architecture diagram using Mermaid.js
 
-Challenges Encountered
+Challenges Encountered: 
 The main challenge was getting comfortable with GitHub's file and folder system, especially creating nested folders correctly through the web interface rather than a local Git setup. A few files were initially created as empty placeholders instead of proper folders, which required deleting and recreating them with the correct path format. Understanding how to translate raw terminal command output into meaningful documentation also took some trial and error.
