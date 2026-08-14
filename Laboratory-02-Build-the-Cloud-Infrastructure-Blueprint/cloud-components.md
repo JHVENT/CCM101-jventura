@@ -1,6 +1,6 @@
 ## Cloud Infrastructure Components
 
-## Compute Resources
+# Compute Resources
 
 Compute is just the raw processing power of a machine, its CPU and RAM, and it's really the whole point of renting a cloud server in the first place. You're not paying for a box sitting in a data center, you're paying for the ability to run your app or website without owning that hardware yourself. What makes cloud compute actually useful is that you can scale it up or down on demand instead of being stuck with whatever you bought.
 
