@@ -1,4 +1,3 @@
-# Infrastructure Report
 
 ## Checkpoint 2 – Cloud Server Investigation
 
