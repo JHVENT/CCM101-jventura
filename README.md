@@ -1,0 +1,11 @@
+# CLOUD-COMPUTING-ACTIVITY
+Repository for my Cloud Computing course activities.
+
+## Name
+JHOLAN NORBERTE VENTURA
+
+## Course and Section
+BSIT 4F
+
+## Description
+This repository contains my activities, exercises, and projects for the Cloud Computing course.
