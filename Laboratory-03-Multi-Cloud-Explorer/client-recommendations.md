@@ -40,3 +40,13 @@ AWS is the best fit for a multinational e-commerce company because it has the la
 2. **Amazon CloudFront** — a global content delivery network (CDN) that speeds up content delivery to customers worldwide.
 3. **Amazon RDS (with Multi-AZ deployment)** — a managed, highly available relational database for order and inventory data.
 
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| **Startup Company** | AWS | Low-cost entry with a free tier and pay-as-you-go pricing, plus mature auto-scaling and serverless tools that support rapid growth without large upfront investment. |
+| **Enterprise Organization** | AWS | The broadest service catalog, largest global infrastructure footprint, and deepest ecosystem of enterprise tools, partners, and support options. |
+| **Microsoft Environment** | Microsoft Azure | Native integration with Windows Server, Active Directory, and Microsoft 365 makes migration and identity management far simpler than with other providers. |
+| **AI / Machine Learning** | Google Cloud Platform | Access to Google-exclusive TPUs, tight integration with TensorFlow, and leading tools like Vertex AI and BigQuery for large-scale model training and data analysis. |
+| **Kubernetes Deployment** | Google Cloud Platform | Google originally created Kubernetes, and its managed service (GKE) is widely regarded as the most mature and feature-complete Kubernetes offering. |
+| **Global Web Application** | AWS | The largest number of regions and Availability Zones worldwide, combined with a global CDN (CloudFront) and proven auto-scaling infrastructure for high availability. |
