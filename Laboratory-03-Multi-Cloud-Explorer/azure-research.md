@@ -4,7 +4,7 @@
 Microsoft Azure is Microsoft's cloud computing platform, launched in 2010. It provides infrastructure, platform, and software services and is especially strong for organizations already invested in the Microsoft ecosystem (Windows Server, Active Directory, Office 365, .NET). Azure is generally ranked as the second-largest cloud provider by market share.
 
 ## Global Infrastructure
-Azure organizes infrastructure into **Geographies**, **Regions**, and **Availability Zones**. As of 2026, Microsoft advertises **more than 70 Azure regions** across over 400 datacenters — more regions than any other major cloud provider — spanning more than 60 countries. Most regions offer Availability Zones (typically 3 per region) for fault tolerance, and regions are often "paired" with another region in the same geography for disaster recovery.
+Azure organizes infrastructure into **Geographies**, **Regions**, and **Availability Zones**. As of 2026, Microsoft advertises **more than 70 Azure regions** across over 400 datacenters, more regions than any other major cloud provider, spanning more than 60 countries. Most regions offer Availability Zones (typically 3 per region) for fault tolerance, and regions are often "paired" with another region in the same geography for disaster recovery.
 
 ## Cloud Management Console
 The **Azure Portal** is the primary web-based management console, offering dashboards, resource groups, cost management + billing tools, and Azure Active Directory (Entra ID) for identity and access management. Azure also provides **Azure Cloud Shell**, the Azure CLI, PowerShell modules, and Azure Resource Manager (ARM) templates/Bicep for infrastructure-as-code.
