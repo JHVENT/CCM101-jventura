@@ -26,3 +26,12 @@ Google Cloud Platform is generally considered strongest in AI and Kubernetes. GC
 **4. Which cloud platform would you personally choose and why?**
 For a project focused on data analytics, machine learning, or container-based applications, Google Cloud Platform would be the personal choice, since its AI/ML tooling and Kubernetes support are considered industry-leading and its pricing tends to be competitive for compute-heavy workloads. However, for a broader enterprise deployment needing the widest range of services and maximum community support, AWS would be the safer overall choice.
 
+## Equivalent Services Reference Table
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Azure Active Directory (Entra ID) | Cloud Identity & Access Management (IAM) |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS (Elastic Kubernetes Service) | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
