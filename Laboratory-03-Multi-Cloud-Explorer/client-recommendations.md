@@ -1,4 +1,4 @@
-# CloudNova Technologies — Client Cloud Platform Recommendations
+# CloudNova Technologies
 
 ## Client A – Startup Company
 **Recommended Platform: Amazon Web Services (AWS)**
