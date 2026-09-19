@@ -13,7 +13,7 @@ docker info
 
 Both commands ran without errors, which confirmed that Docker was installed and the Docker daemon was running.
 
-![Docker version and info output](screenshots/docker-version.png)
+
 
 ## Step 2: Pull the Nginx Image
 
@@ -47,7 +47,7 @@ curl http://localhost:8080
 
 The terminal returned the HTML of the "Welcome to nginx!" page, which shows the web server is running inside the container and reachable through port 8080.
 
-![Nginx running](screenshots/nginx-running.png)
+
 
 ## Observations
 
