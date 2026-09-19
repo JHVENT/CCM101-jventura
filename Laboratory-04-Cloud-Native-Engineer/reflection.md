@@ -1,1 +1,9 @@
+# Reflection
 
+Before this lab, I assumed that running a web server meant installing an operating system, configuring it, and only then installing the software on top. That is basically how a virtual machine works, and just booting one can take minutes. With Docker, I pulled the Nginx image and had a working web server in a few seconds using two commands. The container didn't need its own operating system because it shares the host's kernel, and I could feel that difference in practice instead of just reading about it.
+
+Port mapping made more sense once I saw how isolated a container really is. Nginx listens on port 80 inside the container, but that port isn't reachable from the outside on its own. The -p 8080:80 option acts like a bridge, sending traffic that arrives at port 8080 on the host to port 80 in the container. Without it, the server would be running perfectly and nobody could reach it. I also learned that docker rm deletes the container along with any data written inside it. That surprised me a little, but it fits the idea that containers are disposable, and anything that must survive should live in a volume outside the container.
+
+I also think containerization changes how developers and IT operations teams work together. The old problem of "it works on my machine" fades when both sides use the same image, because the app arrives with everything it needs. That means less blaming and guessing, and more shared responsibility for how software is built and run, which is really the heart of DevOps.
+
+Finally, my GitHub portfolio is slowly taking shape. I started this lab as a beginner who had to figure out how to create a simple folder, and now my repository has a proper lab folder with a README, a research comparison, deployment notes, and screenshots as proof. It is still small, but it is starting to look like a real record of what I can do.
