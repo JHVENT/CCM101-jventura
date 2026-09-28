@@ -1,4 +1,4 @@
-# Mission 5 Reflection
+# Reflection
 
 Object storage is better suited for millions of photos because it stores each photo as a self-contained object with a unique ID and metadata in a flat structure. A traditional block storage drive stores raw blocks that a file system organizes into folders, so it is limited by the capacity of one disk and by file system overhead, and it becomes slow and hard to manage as files pile up. Object storage scales out by adding more nodes and is reached through an API, which makes it cheaper and easier to grow.
 
